@@ -48,8 +48,8 @@
 
                 /** Instructor's View */
                 //include "view/instructor_home.html";
-                include "view/instructor_edit_course.html";
-                //include "view/instructor_edit_quiz.html";
+                //include "view/instructor_edit_course.html";
+                include "view/instructor_edit_quiz.html";
                 //include "view/instructor_quizzes.html";
 
                 /** Student's View */
